@@ -15,14 +15,14 @@ body { background-color: #f0f2f5; font-family: Helvetica, Arial, sans-serif; }
 
 /* Left Section */
 .fb-left { width: 580px; padding-right: 32px; margin-top: -60px; }
-.fb-logo-text { color: #1877f2; font-size: 60px; font-weight: 800; letter-spacing: -2px; margin-bottom: 5px; }
+.fb-logo-text { color: #003366; font-size: 60px; font-weight: 800; letter-spacing: -2px; margin-bottom: 5px; }
 .fb-tagline { font-size: 28px; line-height: 32px; color: #1c1e21; font-weight: normal; }
 
 /* Right Section - Login Card */
 .fb-right { width: 396px; }
 .fb-card { background: #fff; padding: 16px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1), 0 8px 16px rgba(0,0,0,0.1); text-align: center; }
 .fb-card input { width: 100%; padding: 14px 16px; margin-bottom: 12px; border: 1px solid #dddfe2; border-radius: 6px; font-size: 17px; outline-color: #1877f2; }
-.login-btn { width: 100%; background: #1877f2; color: white; border: none; padding: 12px; border-radius: 6px; font-size: 20px; font-weight: bold; cursor: pointer; }
+.login-btn { width: 100%; background: #003366; color: white; border: none; padding: 12px; border-radius: 6px; font-size: 20px; font-weight: bold; cursor: pointer; }
 .forgot-link { display: block; margin: 16px 0; color: #1877f2; text-decoration: none; font-size: 14px; }
 .divider { border-bottom: 1px solid #dadde1; margin: 20px 0; }
 .create-btn { background: #42b72a; color: white; border: none; padding: 0 16px; height: 48px; border-radius: 6px; font-size: 17px; font-weight: bold; cursor: pointer; }
